@@ -335,7 +335,7 @@ if __name__ == "__main__":
     config = {
         "agent_file": "net_ba_100_seed46.json",  # Recommended to use a 100-person network to run polarization
         "model_provider": "qwen",
-        "api_key": "sk-ea17a3710a9f4ebaa5bfb4d1ac4e87fd",  # Keep your own KEY
+        "api_key": "your_api_key_here",  # your own KEY
         "model_name": "qwen-turbo",
         "temperature": 0.7,
         "rounds": 15,
