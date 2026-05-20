@@ -438,7 +438,7 @@ if __name__ == "__main__":
     config = {
         "agent_file": "net_ba_100_seed46.json",
         "model_provider": "qwen",
-        "api_key": "sk-ea17a3710a9f4ebaa5bfb4d1ac4e87fd",
+        "api_key": "your_api_key_here",
         "model_name": "qwen-turbo",
         "temperature": 0.7,
         "rounds": 15,
