@@ -1,0 +1,33 @@
+{
+  "model_family": "Rumor Belief-Expression ABM (RBE-ABM)",
+  "model_variants": [
+    "ABM-0",
+    "ABM-H"
+  ],
+  "network_files": {
+    "BA": "net_ba_100_seed46.json",
+    "ER": "net_er_100_seed46.json",
+    "Community": "net_hyper_100_seed46.json",
+    "WS": "net_ws_100_seed46.json"
+  },
+  "seed_strategies": [
+    "structural",
+    "paired_random"
+  ],
+  "primary_seed_strategy": "structural",
+  "rounds": 15,
+  "num_runs": 10,
+  "run_seed_base": 1000,
+  "paired_seed_base": 2000,
+  "initial_spreader_ratio": 0.05,
+  "max_neighbor_posts": 8,
+  "rumor_transmission_probability": 0.4,
+  "belief_retention_probability": 1.0,
+  "skeptical_correction_probability": 0.1,
+  "believer_sharing_probability": 0.45,
+  "participation_persistence_probability": 0.35,
+  "skeptic_expression_probability": 0.2,
+  "save_agent_traces": false,
+  "output_dir": "abm_results_v2",
+  "parameter_status": "Shared parameters selected by simple preliminary fitting and then held fixed across networks, seed strategies, and model variants; they are not estimates of human behavioral parameters."
+}

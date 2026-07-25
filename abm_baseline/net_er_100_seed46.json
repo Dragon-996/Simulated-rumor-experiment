@@ -1,0 +1,3907 @@
+{
+  "metrics": {
+    "nodes": 100,
+    "edges": 187,
+    "avg_degree": 3.74,
+    "diameter": 7,
+    "aspl": 3.5322613894042467
+  },
+  "agents": {
+    "0": {
+      "id": "0",
+      "demographics": {
+        "name": "Charles Jackson",
+        "gender": "Male",
+        "age": 25,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.569,
+          "Conscientiousness": 0.417,
+          "Extraversion": 0.302,
+          "Agreeableness": 0.48,
+          "Neuroticism": 0.536
+        }
+      },
+      "interests": [
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "9",
+          "w": 1
+        },
+        {
+          "id": "60",
+          "w": 1
+        },
+        {
+          "id": "66",
+          "w": 1
+        },
+        {
+          "id": "68",
+          "w": 1
+        }
+      ]
+    },
+    "1": {
+      "id": "1",
+      "demographics": {
+        "name": "Mark Moore",
+        "gender": "Male",
+        "age": 17,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.488,
+          "Conscientiousness": 0.462,
+          "Extraversion": 0.629,
+          "Agreeableness": 0.442,
+          "Neuroticism": 0.252
+        }
+      },
+      "interests": [
+        "Cooking",
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "23",
+          "w": 1
+        },
+        {
+          "id": "26",
+          "w": 1
+        },
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "91",
+          "w": 1
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "demographics": {
+        "name": "Joseph Williams",
+        "gender": "Male",
+        "age": 52,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.499,
+          "Conscientiousness": 0.312,
+          "Extraversion": 0.583,
+          "Agreeableness": 0.568,
+          "Neuroticism": 0.24
+        }
+      },
+      "interests": [
+        "Technology",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "5",
+          "w": 1
+        },
+        {
+          "id": "32",
+          "w": 1
+        },
+        {
+          "id": "43",
+          "w": 1
+        },
+        {
+          "id": "59",
+          "w": 1
+        },
+        {
+          "id": "68",
+          "w": 1
+        },
+        {
+          "id": "71",
+          "w": 1
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "demographics": {
+        "name": "Jessica Hernandez",
+        "gender": "Female",
+        "age": 61,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.489,
+          "Conscientiousness": 0.566,
+          "Extraversion": 0.431,
+          "Agreeableness": 0.417,
+          "Neuroticism": 0.745
+        }
+      },
+      "interests": [
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "71",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        },
+        {
+          "id": "75",
+          "w": 1
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "demographics": {
+        "name": "Matthew Williams",
+        "gender": "Male",
+        "age": 75,
+        "occupation": "Retiree"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.484,
+          "Conscientiousness": 0.573,
+          "Extraversion": 0.367,
+          "Agreeableness": 0.447,
+          "Neuroticism": 0.501
+        }
+      },
+      "interests": [
+        "Technology",
+        "Travel",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "70",
+          "w": 1
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "demographics": {
+        "name": "Daniel Brown",
+        "gender": "Male",
+        "age": 48,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.305,
+          "Conscientiousness": 0.558,
+          "Extraversion": 0.428,
+          "Agreeableness": 0.738,
+          "Neuroticism": 0.502
+        }
+      },
+      "interests": [
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "2",
+          "w": 1
+        },
+        {
+          "id": "10",
+          "w": 1
+        },
+        {
+          "id": "19",
+          "w": 1
+        },
+        {
+          "id": "33",
+          "w": 1
+        },
+        {
+          "id": "49",
+          "w": 1
+        },
+        {
+          "id": "80",
+          "w": 1
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "demographics": {
+        "name": "Nancy Taylor",
+        "gender": "Female",
+        "age": 65,
+        "occupation": "Retiree"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.487,
+          "Conscientiousness": 0.401,
+          "Extraversion": 0.534,
+          "Agreeableness": 0.852,
+          "Neuroticism": 0.644
+        }
+      },
+      "interests": [
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "10",
+          "w": 1
+        },
+        {
+          "id": "26",
+          "w": 1
+        },
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "47",
+          "w": 1
+        },
+        {
+          "id": "62",
+          "w": 1
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "demographics": {
+        "name": "Susan Thomas",
+        "gender": "Female",
+        "age": 40,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.574,
+          "Conscientiousness": 0.476,
+          "Extraversion": 0.418,
+          "Agreeableness": 0.404,
+          "Neuroticism": 0.587
+        }
+      },
+      "interests": [
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "47",
+          "w": 1
+        },
+        {
+          "id": "48",
+          "w": 1
+        },
+        {
+          "id": "56",
+          "w": 1
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "demographics": {
+        "name": "John Miller",
+        "gender": "Male",
+        "age": 26,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.405,
+          "Conscientiousness": 0.591,
+          "Extraversion": 0.366,
+          "Agreeableness": 0.3,
+          "Neuroticism": 0.765
+        }
+      },
+      "interests": [
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "14",
+          "w": 1
+        },
+        {
+          "id": "63",
+          "w": 1
+        },
+        {
+          "id": "79",
+          "w": 1
+        },
+        {
+          "id": "92",
+          "w": 1
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "demographics": {
+        "name": "William Thomas",
+        "gender": "Male",
+        "age": 47,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.302,
+          "Conscientiousness": 0.487,
+          "Extraversion": 0.545,
+          "Agreeableness": 0.708,
+          "Neuroticism": 0.504
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Technology",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "0",
+          "w": 1
+        },
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "37",
+          "w": 1
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "demographics": {
+        "name": "Daniel Johnson",
+        "gender": "Male",
+        "age": 80,
+        "occupation": "Retiree"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.509,
+          "Conscientiousness": 0.375,
+          "Extraversion": 0.113,
+          "Agreeableness": 0.662,
+          "Neuroticism": 0.753
+        }
+      },
+      "interests": [
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "5",
+          "w": 1
+        },
+        {
+          "id": "6",
+          "w": 1
+        },
+        {
+          "id": "48",
+          "w": 1
+        },
+        {
+          "id": "78",
+          "w": 1
+        },
+        {
+          "id": "89",
+          "w": 1
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "demographics": {
+        "name": "Robert Martinez",
+        "gender": "Male",
+        "age": 18,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.356,
+          "Conscientiousness": 0.487,
+          "Extraversion": 0.474,
+          "Agreeableness": 0.3,
+          "Neuroticism": 0.432
+        }
+      },
+      "interests": [
+        "Art",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "44",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        },
+        {
+          "id": "95",
+          "w": 1
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "demographics": {
+        "name": "David Martin",
+        "gender": "Male",
+        "age": 30,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.498,
+          "Conscientiousness": 0.474,
+          "Extraversion": 0.441,
+          "Agreeableness": 0.414,
+          "Neuroticism": 0.453
+        }
+      },
+      "interests": [
+        "Reading",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "91",
+          "w": 1
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "demographics": {
+        "name": "David Garcia",
+        "gender": "Male",
+        "age": 30,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.573,
+          "Conscientiousness": 0.528,
+          "Extraversion": 0.754,
+          "Agreeableness": 0.431,
+          "Neuroticism": 0.623
+        }
+      },
+      "interests": [
+        "Art",
+        "Music",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "50",
+          "w": 1
+        },
+        {
+          "id": "55",
+          "w": 1
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "demographics": {
+        "name": "Linda Jackson",
+        "gender": "Female",
+        "age": 40,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.389,
+          "Conscientiousness": 0.391,
+          "Extraversion": 0.538,
+          "Agreeableness": 0.347,
+          "Neuroticism": 0.658
+        }
+      },
+      "interests": [
+        "Art",
+        "Cooking",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "8",
+          "w": 1
+        },
+        {
+          "id": "18",
+          "w": 1
+        },
+        {
+          "id": "83",
+          "w": 1
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "demographics": {
+        "name": "James Wilson",
+        "gender": "Male",
+        "age": 27,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.476,
+          "Conscientiousness": 0.412,
+          "Extraversion": 0.683,
+          "Agreeableness": 0.452,
+          "Neuroticism": 0.416
+        }
+      },
+      "interests": [
+        "Art",
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "20",
+          "w": 1
+        },
+        {
+          "id": "28",
+          "w": 1
+        },
+        {
+          "id": "45",
+          "w": 1
+        },
+        {
+          "id": "65",
+          "w": 1
+        },
+        {
+          "id": "99",
+          "w": 1
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "demographics": {
+        "name": "William Miller",
+        "gender": "Male",
+        "age": 59,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.418,
+          "Conscientiousness": 0.59,
+          "Extraversion": 0.135,
+          "Agreeableness": 0.671,
+          "Neuroticism": 0.579
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "19",
+          "w": 1
+        },
+        {
+          "id": "25",
+          "w": 1
+        },
+        {
+          "id": "59",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        },
+        {
+          "id": "88",
+          "w": 1
+        },
+        {
+          "id": "96",
+          "w": 1
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "demographics": {
+        "name": "Barbara Garcia",
+        "gender": "Female",
+        "age": 36,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.43,
+          "Conscientiousness": 0.287,
+          "Extraversion": 0.207,
+          "Agreeableness": 0.317,
+          "Neuroticism": 0.067
+        }
+      },
+      "interests": [
+        "Sports",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "37",
+          "w": 1
+        },
+        {
+          "id": "40",
+          "w": 1
+        },
+        {
+          "id": "53",
+          "w": 1
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "demographics": {
+        "name": "Patricia Martinez",
+        "gender": "Female",
+        "age": 31,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.397,
+          "Conscientiousness": 0.462,
+          "Extraversion": 0.642,
+          "Agreeableness": 0.711,
+          "Neuroticism": 0.518
+        }
+      },
+      "interests": [
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "14",
+          "w": 1
+        },
+        {
+          "id": "41",
+          "w": 1
+        },
+        {
+          "id": "43",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        },
+        {
+          "id": "91",
+          "w": 1
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "demographics": {
+        "name": "Joseph Hernandez",
+        "gender": "Male",
+        "age": 17,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.592,
+          "Conscientiousness": 0.496,
+          "Extraversion": 0.745,
+          "Agreeableness": 0.345,
+          "Neuroticism": 0.412
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "5",
+          "w": 1
+        },
+        {
+          "id": "16",
+          "w": 1
+        },
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "97",
+          "w": 1
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "demographics": {
+        "name": "Nancy Hernandez",
+        "gender": "Female",
+        "age": 29,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.426,
+          "Conscientiousness": 0.583,
+          "Extraversion": 0.437,
+          "Agreeableness": 0.534,
+          "Neuroticism": 0.715
+        }
+      },
+      "interests": [
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "15",
+          "w": 1
+        },
+        {
+          "id": "27",
+          "w": 1
+        },
+        {
+          "id": "66",
+          "w": 1
+        },
+        {
+          "id": "67",
+          "w": 1
+        },
+        {
+          "id": "78",
+          "w": 1
+        },
+        {
+          "id": "96",
+          "w": 1
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "demographics": {
+        "name": "Lisa Lopez",
+        "gender": "Female",
+        "age": 47,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.422,
+          "Conscientiousness": 0.571,
+          "Extraversion": 0.19,
+          "Agreeableness": 0.73,
+          "Neuroticism": 0.597
+        }
+      },
+      "interests": [
+        "Reading",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "60",
+          "w": 1
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "demographics": {
+        "name": "Matthew Gonzalez",
+        "gender": "Male",
+        "age": 21,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.388,
+          "Conscientiousness": 0.475,
+          "Extraversion": 0.334,
+          "Agreeableness": 0.664,
+          "Neuroticism": 0.704
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Technology",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "54",
+          "w": 1
+        },
+        {
+          "id": "62",
+          "w": 1
+        },
+        {
+          "id": "87",
+          "w": 1
+        },
+        {
+          "id": "99",
+          "w": 1
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "demographics": {
+        "name": "Elizabeth Gonzalez",
+        "gender": "Female",
+        "age": 25,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.305,
+          "Conscientiousness": 0.751,
+          "Extraversion": 0.56,
+          "Agreeableness": 0.673,
+          "Neuroticism": 0.737
+        }
+      },
+      "interests": [
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "1",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        },
+        {
+          "id": "74",
+          "w": 1
+        },
+        {
+          "id": "88",
+          "w": 1
+        },
+        {
+          "id": "93",
+          "w": 1
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "demographics": {
+        "name": "Mary Martin",
+        "gender": "Female",
+        "age": 25,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.434,
+          "Conscientiousness": 0.571,
+          "Extraversion": 0.464,
+          "Agreeableness": 0.374,
+          "Neuroticism": 0.412
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Travel",
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "9",
+          "w": 1
+        },
+        {
+          "id": "22",
+          "w": 1
+        },
+        {
+          "id": "36",
+          "w": 1
+        },
+        {
+          "id": "37",
+          "w": 1
+        },
+        {
+          "id": "38",
+          "w": 1
+        },
+        {
+          "id": "59",
+          "w": 1
+        },
+        {
+          "id": "60",
+          "w": 1
+        },
+        {
+          "id": "68",
+          "w": 1
+        }
+      ]
+    },
+    "25": {
+      "id": "25",
+      "demographics": {
+        "name": "Barbara Moore",
+        "gender": "Female",
+        "age": 59,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.677,
+          "Conscientiousness": 0.669,
+          "Extraversion": 0.438,
+          "Agreeableness": 0.776,
+          "Neuroticism": 0.499
+        }
+      },
+      "interests": [
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "16",
+          "w": 1
+        },
+        {
+          "id": "48",
+          "w": 1
+        },
+        {
+          "id": "67",
+          "w": 1
+        }
+      ]
+    },
+    "26": {
+      "id": "26",
+      "demographics": {
+        "name": "Barbara Garcia",
+        "gender": "Female",
+        "age": 56,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.413,
+          "Conscientiousness": 0.206,
+          "Extraversion": 0.456,
+          "Agreeableness": 0.13,
+          "Neuroticism": 0.819
+        }
+      },
+      "interests": [
+        "Travel",
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "1",
+          "w": 1
+        },
+        {
+          "id": "6",
+          "w": 1
+        }
+      ]
+    },
+    "27": {
+      "id": "27",
+      "demographics": {
+        "name": "Sarah Miller",
+        "gender": "Female",
+        "age": 49,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.953,
+          "Conscientiousness": 0.157,
+          "Extraversion": 0.499,
+          "Agreeableness": 0.579,
+          "Neuroticism": 0.419
+        }
+      },
+      "interests": [
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "20",
+          "w": 1
+        },
+        {
+          "id": "37",
+          "w": 1
+        }
+      ]
+    },
+    "28": {
+      "id": "28",
+      "demographics": {
+        "name": "Sarah Gonzalez",
+        "gender": "Female",
+        "age": 76,
+        "occupation": "Retiree"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.574,
+          "Conscientiousness": 0.5,
+          "Extraversion": 0.44,
+          "Agreeableness": 0.66,
+          "Neuroticism": 0.381
+        }
+      },
+      "interests": [
+        "Art",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "15",
+          "w": 1
+        },
+        {
+          "id": "41",
+          "w": 1
+        },
+        {
+          "id": "64",
+          "w": 1
+        }
+      ]
+    },
+    "29": {
+      "id": "29",
+      "demographics": {
+        "name": "Sandra Jackson",
+        "gender": "Female",
+        "age": 30,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.425,
+          "Conscientiousness": 0.76,
+          "Extraversion": 0.814,
+          "Agreeableness": 0.553,
+          "Neuroticism": 0.338
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Cooking",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "40",
+          "w": 1
+        },
+        {
+          "id": "49",
+          "w": 1
+        }
+      ]
+    },
+    "30": {
+      "id": "30",
+      "demographics": {
+        "name": "Anthony Garcia",
+        "gender": "Male",
+        "age": 54,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.584,
+          "Conscientiousness": 0.455,
+          "Extraversion": 0.313,
+          "Agreeableness": 0.726,
+          "Neuroticism": 0.42
+        }
+      },
+      "interests": [
+        "Technology",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "40",
+          "w": 1
+        },
+        {
+          "id": "80",
+          "w": 1
+        }
+      ]
+    },
+    "31": {
+      "id": "31",
+      "demographics": {
+        "name": "Daniel Thomas",
+        "gender": "Male",
+        "age": 55,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.56,
+          "Conscientiousness": 0.378,
+          "Extraversion": 0.707,
+          "Agreeableness": 0.391,
+          "Neuroticism": 0.447
+        }
+      },
+      "interests": [
+        "Travel",
+        "Technology",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "32",
+          "w": 1
+        },
+        {
+          "id": "34",
+          "w": 1
+        },
+        {
+          "id": "38",
+          "w": 1
+        },
+        {
+          "id": "41",
+          "w": 1
+        },
+        {
+          "id": "53",
+          "w": 1
+        },
+        {
+          "id": "99",
+          "w": 1
+        }
+      ]
+    },
+    "32": {
+      "id": "32",
+      "demographics": {
+        "name": "Matthew Taylor",
+        "gender": "Male",
+        "age": 41,
+        "occupation": "Software Engineer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.504,
+          "Conscientiousness": 0.58,
+          "Extraversion": 0.551,
+          "Agreeableness": 0.43,
+          "Neuroticism": 0.457
+        }
+      },
+      "interests": [
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "2",
+          "w": 1
+        },
+        {
+          "id": "31",
+          "w": 1
+        },
+        {
+          "id": "54",
+          "w": 1
+        },
+        {
+          "id": "64",
+          "w": 1
+        },
+        {
+          "id": "93",
+          "w": 1
+        }
+      ]
+    },
+    "33": {
+      "id": "33",
+      "demographics": {
+        "name": "James Hernandez",
+        "gender": "Male",
+        "age": 52,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.332,
+          "Conscientiousness": 0.438,
+          "Extraversion": 0.377,
+          "Agreeableness": 0.447,
+          "Neuroticism": 0.584
+        }
+      },
+      "interests": [
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "5",
+          "w": 1
+        },
+        {
+          "id": "44",
+          "w": 1
+        },
+        {
+          "id": "45",
+          "w": 1
+        }
+      ]
+    },
+    "34": {
+      "id": "34",
+      "demographics": {
+        "name": "James Jackson",
+        "gender": "Male",
+        "age": 53,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.568,
+          "Conscientiousness": 0.443,
+          "Extraversion": 0.541,
+          "Agreeableness": 0.349,
+          "Neuroticism": 0.612
+        }
+      },
+      "interests": [
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "31",
+          "w": 1
+        },
+        {
+          "id": "68",
+          "w": 1
+        }
+      ]
+    },
+    "35": {
+      "id": "35",
+      "demographics": {
+        "name": "John Wilson",
+        "gender": "Male",
+        "age": 29,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.559,
+          "Conscientiousness": 0.507,
+          "Extraversion": 0.24,
+          "Agreeableness": 0.593,
+          "Neuroticism": 0.236
+        }
+      },
+      "interests": [
+        "Travel",
+        "Cooking",
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "1",
+          "w": 1
+        },
+        {
+          "id": "4",
+          "w": 1
+        },
+        {
+          "id": "6",
+          "w": 1
+        },
+        {
+          "id": "19",
+          "w": 1
+        },
+        {
+          "id": "36",
+          "w": 1
+        },
+        {
+          "id": "52",
+          "w": 1
+        },
+        {
+          "id": "66",
+          "w": 1
+        },
+        {
+          "id": "96",
+          "w": 1
+        }
+      ]
+    },
+    "36": {
+      "id": "36",
+      "demographics": {
+        "name": "Mary Wilson",
+        "gender": "Female",
+        "age": 39,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.562,
+          "Conscientiousness": 0.45,
+          "Extraversion": 0.395,
+          "Agreeableness": 0.524,
+          "Neuroticism": 0.83
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Travel",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "55",
+          "w": 1
+        }
+      ]
+    },
+    "37": {
+      "id": "37",
+      "demographics": {
+        "name": "Nancy Smith",
+        "gender": "Female",
+        "age": 55,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.186,
+          "Conscientiousness": 0.607,
+          "Extraversion": 0.285,
+          "Agreeableness": 0.607,
+          "Neuroticism": 0.426
+        }
+      },
+      "interests": [
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "9",
+          "w": 1
+        },
+        {
+          "id": "17",
+          "w": 1
+        },
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "27",
+          "w": 1
+        },
+        {
+          "id": "88",
+          "w": 1
+        }
+      ]
+    },
+    "38": {
+      "id": "38",
+      "demographics": {
+        "name": "Robert Williams",
+        "gender": "Male",
+        "age": 60,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.789,
+          "Conscientiousness": 0.565,
+          "Extraversion": 0.398,
+          "Agreeableness": 0.352,
+          "Neuroticism": 0.703
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Reading",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "31",
+          "w": 1
+        },
+        {
+          "id": "51",
+          "w": 1
+        },
+        {
+          "id": "56",
+          "w": 1
+        },
+        {
+          "id": "60",
+          "w": 1
+        },
+        {
+          "id": "62",
+          "w": 1
+        },
+        {
+          "id": "70",
+          "w": 1
+        },
+        {
+          "id": "75",
+          "w": 1
+        }
+      ]
+    },
+    "39": {
+      "id": "39",
+      "demographics": {
+        "name": "Michael Hernandez",
+        "gender": "Male",
+        "age": 61,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.466,
+          "Conscientiousness": 0.258,
+          "Extraversion": 0.667,
+          "Agreeableness": 0.51,
+          "Neuroticism": 0.567
+        }
+      },
+      "interests": [
+        "Sports",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "50",
+          "w": 1
+        },
+        {
+          "id": "60",
+          "w": 1
+        },
+        {
+          "id": "93",
+          "w": 1
+        }
+      ]
+    },
+    "40": {
+      "id": "40",
+      "demographics": {
+        "name": "Mark Moore",
+        "gender": "Male",
+        "age": 27,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.364,
+          "Conscientiousness": 0.602,
+          "Extraversion": 0.468,
+          "Agreeableness": 0.539,
+          "Neuroticism": 0.44
+        }
+      },
+      "interests": [
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "17",
+          "w": 1
+        },
+        {
+          "id": "29",
+          "w": 1
+        },
+        {
+          "id": "30",
+          "w": 1
+        },
+        {
+          "id": "60",
+          "w": 1
+        },
+        {
+          "id": "84",
+          "w": 1
+        }
+      ]
+    },
+    "41": {
+      "id": "41",
+      "demographics": {
+        "name": "Elizabeth Smith",
+        "gender": "Female",
+        "age": 28,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.371,
+          "Conscientiousness": 0.467,
+          "Extraversion": 0.379,
+          "Agreeableness": 0.278,
+          "Neuroticism": 0.613
+        }
+      },
+      "interests": [
+        "Reading",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "18",
+          "w": 1
+        },
+        {
+          "id": "28",
+          "w": 1
+        },
+        {
+          "id": "31",
+          "w": 1
+        },
+        {
+          "id": "89",
+          "w": 1
+        },
+        {
+          "id": "95",
+          "w": 1
+        }
+      ]
+    },
+    "42": {
+      "id": "42",
+      "demographics": {
+        "name": "Nancy Thomas",
+        "gender": "Female",
+        "age": 34,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.24,
+          "Conscientiousness": 0.761,
+          "Extraversion": 0.381,
+          "Agreeableness": 0.574,
+          "Neuroticism": 0.463
+        }
+      },
+      "interests": [
+        "Reading",
+        "Travel",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "53",
+          "w": 1
+        }
+      ]
+    },
+    "43": {
+      "id": "43",
+      "demographics": {
+        "name": "Robert Garcia",
+        "gender": "Male",
+        "age": 78,
+        "occupation": "Retiree"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.355,
+          "Conscientiousness": 0.599,
+          "Extraversion": 0.379,
+          "Agreeableness": 0.761,
+          "Neuroticism": 0.35
+        }
+      },
+      "interests": [
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "2",
+          "w": 1
+        },
+        {
+          "id": "18",
+          "w": 1
+        },
+        {
+          "id": "57",
+          "w": 1
+        },
+        {
+          "id": "72",
+          "w": 1
+        },
+        {
+          "id": "99",
+          "w": 1
+        }
+      ]
+    },
+    "44": {
+      "id": "44",
+      "demographics": {
+        "name": "Mary Jones",
+        "gender": "Female",
+        "age": 58,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.624,
+          "Conscientiousness": 0.321,
+          "Extraversion": 0.556,
+          "Agreeableness": 0.705,
+          "Neuroticism": 0.323
+        }
+      },
+      "interests": [
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "11",
+          "w": 1
+        },
+        {
+          "id": "33",
+          "w": 1
+        },
+        {
+          "id": "81",
+          "w": 1
+        }
+      ]
+    },
+    "45": {
+      "id": "45",
+      "demographics": {
+        "name": "James Anderson",
+        "gender": "Male",
+        "age": 26,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.631,
+          "Conscientiousness": 0.476,
+          "Extraversion": 0.535,
+          "Agreeableness": 0.498,
+          "Neuroticism": 0.37
+        }
+      },
+      "interests": [
+        "Reading",
+        "Sports",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "15",
+          "w": 1
+        },
+        {
+          "id": "33",
+          "w": 1
+        },
+        {
+          "id": "51",
+          "w": 1
+        },
+        {
+          "id": "79",
+          "w": 1
+        },
+        {
+          "id": "89",
+          "w": 1
+        }
+      ]
+    },
+    "46": {
+      "id": "46",
+      "demographics": {
+        "name": "Matthew Anderson",
+        "gender": "Male",
+        "age": 43,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.414,
+          "Conscientiousness": 0.678,
+          "Extraversion": 0.618,
+          "Agreeableness": 0.213,
+          "Neuroticism": 0.446
+        }
+      },
+      "interests": [
+        "Travel"
+      ],
+      "neighbors": []
+    },
+    "47": {
+      "id": "47",
+      "demographics": {
+        "name": "Jessica Rodriguez",
+        "gender": "Female",
+        "age": 52,
+        "occupation": "Software Engineer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.332,
+          "Conscientiousness": 0.341,
+          "Extraversion": 0.299,
+          "Agreeableness": 0.696,
+          "Neuroticism": 0.446
+        }
+      },
+      "interests": [
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "6",
+          "w": 1
+        },
+        {
+          "id": "7",
+          "w": 1
+        }
+      ]
+    },
+    "48": {
+      "id": "48",
+      "demographics": {
+        "name": "Jessica Taylor",
+        "gender": "Female",
+        "age": 25,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.468,
+          "Conscientiousness": 0.057,
+          "Extraversion": 0.379,
+          "Agreeableness": 0.416,
+          "Neuroticism": 0.568
+        }
+      },
+      "interests": [
+        "Reading",
+        "Travel",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "7",
+          "w": 1
+        },
+        {
+          "id": "10",
+          "w": 1
+        },
+        {
+          "id": "25",
+          "w": 1
+        },
+        {
+          "id": "51",
+          "w": 1
+        },
+        {
+          "id": "86",
+          "w": 1
+        },
+        {
+          "id": "94",
+          "w": 1
+        }
+      ]
+    },
+    "49": {
+      "id": "49",
+      "demographics": {
+        "name": "Sarah Taylor",
+        "gender": "Female",
+        "age": 61,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.539,
+          "Conscientiousness": 0.723,
+          "Extraversion": 0.39,
+          "Agreeableness": 0.311,
+          "Neuroticism": 0.717
+        }
+      },
+      "interests": [
+        "Technology",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "5",
+          "w": 1
+        },
+        {
+          "id": "29",
+          "w": 1
+        },
+        {
+          "id": "71",
+          "w": 1
+        }
+      ]
+    },
+    "50": {
+      "id": "50",
+      "demographics": {
+        "name": "Sandra Martinez",
+        "gender": "Female",
+        "age": 33,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.359,
+          "Conscientiousness": 0.451,
+          "Extraversion": 0.396,
+          "Agreeableness": 0.695,
+          "Neuroticism": 0.974
+        }
+      },
+      "interests": [
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "13",
+          "w": 1
+        },
+        {
+          "id": "39",
+          "w": 1
+        }
+      ]
+    },
+    "51": {
+      "id": "51",
+      "demographics": {
+        "name": "Michael Smith",
+        "gender": "Male",
+        "age": 58,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.344,
+          "Conscientiousness": 0.538,
+          "Extraversion": 0.758,
+          "Agreeableness": 0.29,
+          "Neuroticism": 0.273
+        }
+      },
+      "interests": [
+        "Sports",
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "38",
+          "w": 1
+        },
+        {
+          "id": "45",
+          "w": 1
+        },
+        {
+          "id": "48",
+          "w": 1
+        },
+        {
+          "id": "58",
+          "w": 1
+        },
+        {
+          "id": "78",
+          "w": 1
+        },
+        {
+          "id": "85",
+          "w": 1
+        },
+        {
+          "id": "93",
+          "w": 1
+        },
+        {
+          "id": "95",
+          "w": 1
+        }
+      ]
+    },
+    "52": {
+      "id": "52",
+      "demographics": {
+        "name": "Susan Brown",
+        "gender": "Female",
+        "age": 51,
+        "occupation": "Software Engineer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.563,
+          "Conscientiousness": 0.425,
+          "Extraversion": 0.494,
+          "Agreeableness": 0.432,
+          "Neuroticism": 0.605
+        }
+      },
+      "interests": [
+        "Technology",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "53",
+          "w": 1
+        }
+      ]
+    },
+    "53": {
+      "id": "53",
+      "demographics": {
+        "name": "David Miller",
+        "gender": "Male",
+        "age": 34,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.943,
+          "Conscientiousness": 0.585,
+          "Extraversion": 0.507,
+          "Agreeableness": 0.328,
+          "Neuroticism": 0.663
+        }
+      },
+      "interests": [
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "17",
+          "w": 1
+        },
+        {
+          "id": "31",
+          "w": 1
+        },
+        {
+          "id": "42",
+          "w": 1
+        },
+        {
+          "id": "52",
+          "w": 1
+        },
+        {
+          "id": "83",
+          "w": 1
+        },
+        {
+          "id": "87",
+          "w": 1
+        },
+        {
+          "id": "97",
+          "w": 1
+        }
+      ]
+    },
+    "54": {
+      "id": "54",
+      "demographics": {
+        "name": "Sandra Anderson",
+        "gender": "Female",
+        "age": 29,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.588,
+          "Conscientiousness": 0.303,
+          "Extraversion": 0.245,
+          "Agreeableness": 0.231,
+          "Neuroticism": 0.378
+        }
+      },
+      "interests": [
+        "Art",
+        "Sports",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "22",
+          "w": 1
+        },
+        {
+          "id": "32",
+          "w": 1
+        },
+        {
+          "id": "60",
+          "w": 1
+        },
+        {
+          "id": "64",
+          "w": 1
+        }
+      ]
+    },
+    "55": {
+      "id": "55",
+      "demographics": {
+        "name": "Joseph Gonzalez",
+        "gender": "Male",
+        "age": 35,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.481,
+          "Conscientiousness": 0.568,
+          "Extraversion": 0.389,
+          "Agreeableness": 0.185,
+          "Neuroticism": 0.549
+        }
+      },
+      "interests": [
+        "Sports",
+        "Art",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "13",
+          "w": 1
+        },
+        {
+          "id": "36",
+          "w": 1
+        },
+        {
+          "id": "66",
+          "w": 1
+        }
+      ]
+    },
+    "56": {
+      "id": "56",
+      "demographics": {
+        "name": "Michael Gonzalez",
+        "gender": "Male",
+        "age": 71,
+        "occupation": "Retiree"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.489,
+          "Conscientiousness": 0.769,
+          "Extraversion": 0.524,
+          "Agreeableness": 0.371,
+          "Neuroticism": 0.277
+        }
+      },
+      "interests": [
+        "Sports",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "7",
+          "w": 1
+        },
+        {
+          "id": "38",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        }
+      ]
+    },
+    "57": {
+      "id": "57",
+      "demographics": {
+        "name": "James Miller",
+        "gender": "Male",
+        "age": 16,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.445,
+          "Conscientiousness": 0.601,
+          "Extraversion": 0.038,
+          "Agreeableness": 0.494,
+          "Neuroticism": 0.245
+        }
+      },
+      "interests": [
+        "Sports",
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "43",
+          "w": 1
+        },
+        {
+          "id": "87",
+          "w": 1
+        }
+      ]
+    },
+    "58": {
+      "id": "58",
+      "demographics": {
+        "name": "Sarah Rodriguez",
+        "gender": "Female",
+        "age": 21,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.718,
+          "Conscientiousness": 0.534,
+          "Extraversion": 0.368,
+          "Agreeableness": 0.379,
+          "Neuroticism": 0.53
+        }
+      },
+      "interests": [
+        "Cooking",
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "51",
+          "w": 1
+        },
+        {
+          "id": "82",
+          "w": 1
+        },
+        {
+          "id": "90",
+          "w": 1
+        }
+      ]
+    },
+    "59": {
+      "id": "59",
+      "demographics": {
+        "name": "James Smith",
+        "gender": "Male",
+        "age": 50,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.355,
+          "Conscientiousness": 0.453,
+          "Extraversion": 0.538,
+          "Agreeableness": 0.35,
+          "Neuroticism": 0.519
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "2",
+          "w": 1
+        },
+        {
+          "id": "16",
+          "w": 1
+        },
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "69",
+          "w": 1
+        },
+        {
+          "id": "88",
+          "w": 1
+        }
+      ]
+    },
+    "60": {
+      "id": "60",
+      "demographics": {
+        "name": "Elizabeth Anderson",
+        "gender": "Female",
+        "age": 62,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.56,
+          "Conscientiousness": 0.317,
+          "Extraversion": 0.475,
+          "Agreeableness": 0.54,
+          "Neuroticism": 0.724
+        }
+      },
+      "interests": [
+        "Cooking",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "0",
+          "w": 1
+        },
+        {
+          "id": "21",
+          "w": 1
+        },
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "38",
+          "w": 1
+        },
+        {
+          "id": "39",
+          "w": 1
+        },
+        {
+          "id": "40",
+          "w": 1
+        },
+        {
+          "id": "54",
+          "w": 1
+        }
+      ]
+    },
+    "61": {
+      "id": "61",
+      "demographics": {
+        "name": "John Brown",
+        "gender": "Male",
+        "age": 31,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.628,
+          "Conscientiousness": 0.411,
+          "Extraversion": 0.562,
+          "Agreeableness": 0.589,
+          "Neuroticism": 0.726
+        }
+      },
+      "interests": [
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "91",
+          "w": 1
+        }
+      ]
+    },
+    "62": {
+      "id": "62",
+      "demographics": {
+        "name": "Michael Wilson",
+        "gender": "Male",
+        "age": 27,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.497,
+          "Conscientiousness": 0.382,
+          "Extraversion": 0.562,
+          "Agreeableness": 0.674,
+          "Neuroticism": 0.291
+        }
+      },
+      "interests": [
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "6",
+          "w": 1
+        },
+        {
+          "id": "22",
+          "w": 1
+        },
+        {
+          "id": "38",
+          "w": 1
+        }
+      ]
+    },
+    "63": {
+      "id": "63",
+      "demographics": {
+        "name": "Margaret Williams",
+        "gender": "Female",
+        "age": 35,
+        "occupation": "Software Engineer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.535,
+          "Conscientiousness": 0.521,
+          "Extraversion": 0.681,
+          "Agreeableness": 0.492,
+          "Neuroticism": 0.589
+        }
+      },
+      "interests": [
+        "Technology",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "8",
+          "w": 1
+        },
+        {
+          "id": "88",
+          "w": 1
+        }
+      ]
+    },
+    "64": {
+      "id": "64",
+      "demographics": {
+        "name": "Richard Wilson",
+        "gender": "Male",
+        "age": 45,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.45,
+          "Conscientiousness": 0.569,
+          "Extraversion": 0.639,
+          "Agreeableness": 0.409,
+          "Neuroticism": 0.312
+        }
+      },
+      "interests": [
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "28",
+          "w": 1
+        },
+        {
+          "id": "32",
+          "w": 1
+        },
+        {
+          "id": "54",
+          "w": 1
+        },
+        {
+          "id": "68",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        }
+      ]
+    },
+    "65": {
+      "id": "65",
+      "demographics": {
+        "name": "Margaret Smith",
+        "gender": "Female",
+        "age": 23,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.856,
+          "Conscientiousness": 0.368,
+          "Extraversion": 0.708,
+          "Agreeableness": 0.359,
+          "Neuroticism": 0.37
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "15",
+          "w": 1
+        },
+        {
+          "id": "85",
+          "w": 1
+        },
+        {
+          "id": "89",
+          "w": 1
+        },
+        {
+          "id": "93",
+          "w": 1
+        }
+      ]
+    },
+    "66": {
+      "id": "66",
+      "demographics": {
+        "name": "Matthew Wilson",
+        "gender": "Male",
+        "age": 33,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.413,
+          "Conscientiousness": 0.476,
+          "Extraversion": 0.165,
+          "Agreeableness": 0.449,
+          "Neuroticism": 0.573
+        }
+      },
+      "interests": [
+        "Art",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "0",
+          "w": 1
+        },
+        {
+          "id": "20",
+          "w": 1
+        },
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "55",
+          "w": 1
+        },
+        {
+          "id": "73",
+          "w": 1
+        }
+      ]
+    },
+    "67": {
+      "id": "67",
+      "demographics": {
+        "name": "Barbara Anderson",
+        "gender": "Female",
+        "age": 62,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.581,
+          "Conscientiousness": 0.52,
+          "Extraversion": 0.362,
+          "Agreeableness": 0.354,
+          "Neuroticism": 0.497
+        }
+      },
+      "interests": [
+        "Art",
+        "Sports",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "20",
+          "w": 1
+        },
+        {
+          "id": "25",
+          "w": 1
+        }
+      ]
+    },
+    "68": {
+      "id": "68",
+      "demographics": {
+        "name": "Jennifer Jones",
+        "gender": "Female",
+        "age": 41,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.592,
+          "Conscientiousness": 0.523,
+          "Extraversion": 0.638,
+          "Agreeableness": 0.686,
+          "Neuroticism": 0.429
+        }
+      },
+      "interests": [
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "0",
+          "w": 1
+        },
+        {
+          "id": "2",
+          "w": 1
+        },
+        {
+          "id": "24",
+          "w": 1
+        },
+        {
+          "id": "34",
+          "w": 1
+        },
+        {
+          "id": "64",
+          "w": 1
+        },
+        {
+          "id": "79",
+          "w": 1
+        },
+        {
+          "id": "86",
+          "w": 1
+        }
+      ]
+    },
+    "69": {
+      "id": "69",
+      "demographics": {
+        "name": "Lisa Davis",
+        "gender": "Female",
+        "age": 62,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.451,
+          "Conscientiousness": 0.612,
+          "Extraversion": 0.641,
+          "Agreeableness": 0.478,
+          "Neuroticism": 0.606
+        }
+      },
+      "interests": [
+        "Cooking",
+        "Travel",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "59",
+          "w": 1
+        },
+        {
+          "id": "86",
+          "w": 1
+        }
+      ]
+    },
+    "70": {
+      "id": "70",
+      "demographics": {
+        "name": "Jessica Davis",
+        "gender": "Female",
+        "age": 47,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.581,
+          "Conscientiousness": 0.523,
+          "Extraversion": 0.486,
+          "Agreeableness": 0.466,
+          "Neuroticism": 0.392
+        }
+      },
+      "interests": [
+        "Technology",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "4",
+          "w": 1
+        },
+        {
+          "id": "38",
+          "w": 1
+        }
+      ]
+    },
+    "71": {
+      "id": "71",
+      "demographics": {
+        "name": "Susan Taylor",
+        "gender": "Female",
+        "age": 55,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.509,
+          "Conscientiousness": 0.497,
+          "Extraversion": 0.597,
+          "Agreeableness": 0.498,
+          "Neuroticism": 0.931
+        }
+      },
+      "interests": [
+        "Technology",
+        "Travel",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "2",
+          "w": 1
+        },
+        {
+          "id": "3",
+          "w": 1
+        },
+        {
+          "id": "49",
+          "w": 1
+        },
+        {
+          "id": "75",
+          "w": 1
+        }
+      ]
+    },
+    "72": {
+      "id": "72",
+      "demographics": {
+        "name": "Michael Miller",
+        "gender": "Male",
+        "age": 30,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.496,
+          "Conscientiousness": 0.688,
+          "Extraversion": 0.648,
+          "Agreeableness": 0.591,
+          "Neuroticism": 0.34
+        }
+      },
+      "interests": [
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "43",
+          "w": 1
+        }
+      ]
+    },
+    "73": {
+      "id": "73",
+      "demographics": {
+        "name": "Elizabeth Williams",
+        "gender": "Female",
+        "age": 25,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.338,
+          "Conscientiousness": 0.538,
+          "Extraversion": 0.63,
+          "Agreeableness": 0.527,
+          "Neuroticism": 0.612
+        }
+      },
+      "interests": [
+        "Travel",
+        "Cooking",
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "3",
+          "w": 1
+        },
+        {
+          "id": "11",
+          "w": 1
+        },
+        {
+          "id": "16",
+          "w": 1
+        },
+        {
+          "id": "18",
+          "w": 1
+        },
+        {
+          "id": "23",
+          "w": 1
+        },
+        {
+          "id": "56",
+          "w": 1
+        },
+        {
+          "id": "64",
+          "w": 1
+        },
+        {
+          "id": "66",
+          "w": 1
+        }
+      ]
+    },
+    "74": {
+      "id": "74",
+      "demographics": {
+        "name": "Thomas Taylor",
+        "gender": "Male",
+        "age": 53,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.276,
+          "Conscientiousness": 0.504,
+          "Extraversion": 0.33,
+          "Agreeableness": 0.654,
+          "Neuroticism": 0.448
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "23",
+          "w": 1
+        },
+        {
+          "id": "80",
+          "w": 1
+        },
+        {
+          "id": "89",
+          "w": 1
+        },
+        {
+          "id": "97",
+          "w": 1
+        }
+      ]
+    },
+    "75": {
+      "id": "75",
+      "demographics": {
+        "name": "Lisa Hernandez",
+        "gender": "Female",
+        "age": 18,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.708,
+          "Conscientiousness": 0.415,
+          "Extraversion": 0.781,
+          "Agreeableness": 0.445,
+          "Neuroticism": 0.909
+        }
+      },
+      "interests": [
+        "Cooking",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "3",
+          "w": 1
+        },
+        {
+          "id": "38",
+          "w": 1
+        },
+        {
+          "id": "71",
+          "w": 1
+        }
+      ]
+    },
+    "76": {
+      "id": "76",
+      "demographics": {
+        "name": "Jennifer Davis",
+        "gender": "Female",
+        "age": 20,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.463,
+          "Conscientiousness": 0.43,
+          "Extraversion": 0.618,
+          "Agreeableness": 0.412,
+          "Neuroticism": 0.654
+        }
+      },
+      "interests": [
+        "Music",
+        "Technology",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "77",
+          "w": 1
+        },
+        {
+          "id": "88",
+          "w": 1
+        }
+      ]
+    },
+    "77": {
+      "id": "77",
+      "demographics": {
+        "name": "Sandra Jones",
+        "gender": "Female",
+        "age": 27,
+        "occupation": "Farmer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.516,
+          "Conscientiousness": 0.525,
+          "Extraversion": 0.409,
+          "Agreeableness": 0.547,
+          "Neuroticism": 0.455
+        }
+      },
+      "interests": [
+        "Travel",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "76",
+          "w": 1
+        },
+        {
+          "id": "91",
+          "w": 1
+        }
+      ]
+    },
+    "78": {
+      "id": "78",
+      "demographics": {
+        "name": "William Taylor",
+        "gender": "Male",
+        "age": 27,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.534,
+          "Conscientiousness": 0.731,
+          "Extraversion": 0.42,
+          "Agreeableness": 0.671,
+          "Neuroticism": 0.476
+        }
+      },
+      "interests": [
+        "Cooking",
+        "Gaming",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "10",
+          "w": 1
+        },
+        {
+          "id": "20",
+          "w": 1
+        },
+        {
+          "id": "51",
+          "w": 1
+        }
+      ]
+    },
+    "79": {
+      "id": "79",
+      "demographics": {
+        "name": "David Jones",
+        "gender": "Male",
+        "age": 51,
+        "occupation": "Software Engineer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.378,
+          "Conscientiousness": 0.487,
+          "Extraversion": 0.459,
+          "Agreeableness": 0.56,
+          "Neuroticism": 0.799
+        }
+      },
+      "interests": [
+        "Technology",
+        "Travel",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "8",
+          "w": 1
+        },
+        {
+          "id": "45",
+          "w": 1
+        },
+        {
+          "id": "68",
+          "w": 1
+        },
+        {
+          "id": "83",
+          "w": 1
+        }
+      ]
+    },
+    "80": {
+      "id": "80",
+      "demographics": {
+        "name": "Richard Gonzalez",
+        "gender": "Male",
+        "age": 51,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.266,
+          "Conscientiousness": 0.29,
+          "Extraversion": 0.554,
+          "Agreeableness": 0.753,
+          "Neuroticism": 0.481
+        }
+      },
+      "interests": [
+        "Art",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "5",
+          "w": 1
+        },
+        {
+          "id": "30",
+          "w": 1
+        },
+        {
+          "id": "74",
+          "w": 1
+        },
+        {
+          "id": "91",
+          "w": 1
+        }
+      ]
+    },
+    "81": {
+      "id": "81",
+      "demographics": {
+        "name": "James Brown",
+        "gender": "Male",
+        "age": 26,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.536,
+          "Conscientiousness": 0.597,
+          "Extraversion": 0.536,
+          "Agreeableness": 0.631,
+          "Neuroticism": 0.727
+        }
+      },
+      "interests": [
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "44",
+          "w": 1
+        },
+        {
+          "id": "85",
+          "w": 1
+        }
+      ]
+    },
+    "82": {
+      "id": "82",
+      "demographics": {
+        "name": "Jennifer Wilson",
+        "gender": "Female",
+        "age": 46,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.485,
+          "Conscientiousness": 0.497,
+          "Extraversion": 0.517,
+          "Agreeableness": 0.616,
+          "Neuroticism": 0.459
+        }
+      },
+      "interests": [
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "58",
+          "w": 1
+        }
+      ]
+    },
+    "83": {
+      "id": "83",
+      "demographics": {
+        "name": "Linda Garcia",
+        "gender": "Female",
+        "age": 39,
+        "occupation": "Business Owner"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.52,
+          "Conscientiousness": 0.313,
+          "Extraversion": 0.126,
+          "Agreeableness": 0.441,
+          "Neuroticism": 0.58
+        }
+      },
+      "interests": [
+        "Sports",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "14",
+          "w": 1
+        },
+        {
+          "id": "53",
+          "w": 1
+        },
+        {
+          "id": "79",
+          "w": 1
+        }
+      ]
+    },
+    "84": {
+      "id": "84",
+      "demographics": {
+        "name": "Richard Hernandez",
+        "gender": "Male",
+        "age": 19,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.548,
+          "Conscientiousness": 0.539,
+          "Extraversion": 0.318,
+          "Agreeableness": 0.398,
+          "Neuroticism": 0.391
+        }
+      },
+      "interests": [
+        "Technology",
+        "Gaming",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "40",
+          "w": 1
+        }
+      ]
+    },
+    "85": {
+      "id": "85",
+      "demographics": {
+        "name": "Lisa Garcia",
+        "gender": "Female",
+        "age": 54,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.437,
+          "Conscientiousness": 0.257,
+          "Extraversion": 0.546,
+          "Agreeableness": 0.43,
+          "Neuroticism": 0.277
+        }
+      },
+      "interests": [
+        "Art",
+        "Sports",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "51",
+          "w": 1
+        },
+        {
+          "id": "65",
+          "w": 1
+        },
+        {
+          "id": "81",
+          "w": 1
+        },
+        {
+          "id": "98",
+          "w": 1
+        }
+      ]
+    },
+    "86": {
+      "id": "86",
+      "demographics": {
+        "name": "Betty Hernandez",
+        "gender": "Female",
+        "age": 57,
+        "occupation": "Doctor"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.593,
+          "Conscientiousness": 0.605,
+          "Extraversion": 0.515,
+          "Agreeableness": 0.198,
+          "Neuroticism": 0.581
+        }
+      },
+      "interests": [
+        "Technology",
+        "Cooking",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "48",
+          "w": 1
+        },
+        {
+          "id": "68",
+          "w": 1
+        },
+        {
+          "id": "69",
+          "w": 1
+        }
+      ]
+    },
+    "87": {
+      "id": "87",
+      "demographics": {
+        "name": "Matthew Miller",
+        "gender": "Male",
+        "age": 62,
+        "occupation": "Factory Worker"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.553,
+          "Conscientiousness": 0.476,
+          "Extraversion": 0.608,
+          "Agreeableness": 0.665,
+          "Neuroticism": 0.273
+        }
+      },
+      "interests": [
+        "Reading",
+        "Art"
+      ],
+      "neighbors": [
+        {
+          "id": "22",
+          "w": 1
+        },
+        {
+          "id": "53",
+          "w": 1
+        },
+        {
+          "id": "57",
+          "w": 1
+        }
+      ]
+    },
+    "88": {
+      "id": "88",
+      "demographics": {
+        "name": "Christopher Jones",
+        "gender": "Male",
+        "age": 47,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.422,
+          "Conscientiousness": 0.649,
+          "Extraversion": 0.542,
+          "Agreeableness": 0.585,
+          "Neuroticism": 0.43
+        }
+      },
+      "interests": [
+        "Sports",
+        "Art",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "16",
+          "w": 1
+        },
+        {
+          "id": "23",
+          "w": 1
+        },
+        {
+          "id": "37",
+          "w": 1
+        },
+        {
+          "id": "59",
+          "w": 1
+        },
+        {
+          "id": "63",
+          "w": 1
+        },
+        {
+          "id": "76",
+          "w": 1
+        },
+        {
+          "id": "95",
+          "w": 1
+        }
+      ]
+    },
+    "89": {
+      "id": "89",
+      "demographics": {
+        "name": "James Davis",
+        "gender": "Male",
+        "age": 22,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.619,
+          "Conscientiousness": 0.259,
+          "Extraversion": 0.682,
+          "Agreeableness": 0.641,
+          "Neuroticism": 0.309
+        }
+      },
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "neighbors": [
+        {
+          "id": "10",
+          "w": 1
+        },
+        {
+          "id": "41",
+          "w": 1
+        },
+        {
+          "id": "45",
+          "w": 1
+        },
+        {
+          "id": "65",
+          "w": 1
+        },
+        {
+          "id": "74",
+          "w": 1
+        }
+      ]
+    },
+    "90": {
+      "id": "90",
+      "demographics": {
+        "name": "Linda Davis",
+        "gender": "Female",
+        "age": 18,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.523,
+          "Conscientiousness": 0.736,
+          "Extraversion": 0.623,
+          "Agreeableness": 0.344,
+          "Neuroticism": 0.489
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Art",
+        "Reading"
+      ],
+      "neighbors": [
+        {
+          "id": "58",
+          "w": 1
+        },
+        {
+          "id": "91",
+          "w": 1
+        },
+        {
+          "id": "92",
+          "w": 1
+        }
+      ]
+    },
+    "91": {
+      "id": "91",
+      "demographics": {
+        "name": "Margaret Martin",
+        "gender": "Female",
+        "age": 27,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.742,
+          "Conscientiousness": 0.428,
+          "Extraversion": 0.372,
+          "Agreeableness": 0.354,
+          "Neuroticism": 0.424
+        }
+      },
+      "interests": [
+        "Gaming"
+      ],
+      "neighbors": [
+        {
+          "id": "1",
+          "w": 1
+        },
+        {
+          "id": "12",
+          "w": 1
+        },
+        {
+          "id": "18",
+          "w": 1
+        },
+        {
+          "id": "61",
+          "w": 1
+        },
+        {
+          "id": "77",
+          "w": 1
+        },
+        {
+          "id": "80",
+          "w": 1
+        },
+        {
+          "id": "90",
+          "w": 1
+        }
+      ]
+    },
+    "92": {
+      "id": "92",
+      "demographics": {
+        "name": "Mary Wilson",
+        "gender": "Female",
+        "age": 40,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.566,
+          "Conscientiousness": 0.635,
+          "Extraversion": 0.686,
+          "Agreeableness": 0.548,
+          "Neuroticism": 0.523
+        }
+      },
+      "interests": [
+        "Technology",
+        "Reading",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "8",
+          "w": 1
+        },
+        {
+          "id": "90",
+          "w": 1
+        }
+      ]
+    },
+    "93": {
+      "id": "93",
+      "demographics": {
+        "name": "Matthew Jones",
+        "gender": "Male",
+        "age": 25,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.721,
+          "Conscientiousness": 0.422,
+          "Extraversion": 0.332,
+          "Agreeableness": 0.75,
+          "Neuroticism": 0.38
+        }
+      },
+      "interests": [
+        "Technology",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "23",
+          "w": 1
+        },
+        {
+          "id": "32",
+          "w": 1
+        },
+        {
+          "id": "39",
+          "w": 1
+        },
+        {
+          "id": "51",
+          "w": 1
+        },
+        {
+          "id": "65",
+          "w": 1
+        }
+      ]
+    },
+    "94": {
+      "id": "94",
+      "demographics": {
+        "name": "Jessica Jones",
+        "gender": "Female",
+        "age": 20,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.648,
+          "Conscientiousness": 0.337,
+          "Extraversion": 0.227,
+          "Agreeableness": 0.683,
+          "Neuroticism": 0.512
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "48",
+          "w": 1
+        },
+        {
+          "id": "98",
+          "w": 1
+        }
+      ]
+    },
+    "95": {
+      "id": "95",
+      "demographics": {
+        "name": "Jessica Anderson",
+        "gender": "Female",
+        "age": 27,
+        "occupation": "Civil Servant"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.903,
+          "Conscientiousness": 0.281,
+          "Extraversion": 0.381,
+          "Agreeableness": 0.594,
+          "Neuroticism": 0.14
+        }
+      },
+      "interests": [
+        "Sports",
+        "Travel",
+        "Technology"
+      ],
+      "neighbors": [
+        {
+          "id": "11",
+          "w": 1
+        },
+        {
+          "id": "41",
+          "w": 1
+        },
+        {
+          "id": "51",
+          "w": 1
+        },
+        {
+          "id": "88",
+          "w": 1
+        }
+      ]
+    },
+    "96": {
+      "id": "96",
+      "demographics": {
+        "name": "Patricia Martin",
+        "gender": "Female",
+        "age": 64,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.596,
+          "Conscientiousness": 0.555,
+          "Extraversion": 0.583,
+          "Agreeableness": 0.795,
+          "Neuroticism": 0.619
+        }
+      },
+      "interests": [
+        "Sports",
+        "Cooking",
+        "Music"
+      ],
+      "neighbors": [
+        {
+          "id": "16",
+          "w": 1
+        },
+        {
+          "id": "20",
+          "w": 1
+        },
+        {
+          "id": "35",
+          "w": 1
+        },
+        {
+          "id": "97",
+          "w": 1
+        }
+      ]
+    },
+    "97": {
+      "id": "97",
+      "demographics": {
+        "name": "David Martinez",
+        "gender": "Male",
+        "age": 25,
+        "occupation": "Freelancer"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.64,
+          "Conscientiousness": 0.723,
+          "Extraversion": 0.468,
+          "Agreeableness": 0.572,
+          "Neuroticism": 0.439
+        }
+      },
+      "interests": [
+        "Travel",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "19",
+          "w": 1
+        },
+        {
+          "id": "53",
+          "w": 1
+        },
+        {
+          "id": "74",
+          "w": 1
+        },
+        {
+          "id": "96",
+          "w": 1
+        }
+      ]
+    },
+    "98": {
+      "id": "98",
+      "demographics": {
+        "name": "Mary Williams",
+        "gender": "Female",
+        "age": 19,
+        "occupation": "Student"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.503,
+          "Conscientiousness": 0.588,
+          "Extraversion": 0.671,
+          "Agreeableness": 0.278,
+          "Neuroticism": 0.202
+        }
+      },
+      "interests": [
+        "Technology",
+        "Art",
+        "Cooking"
+      ],
+      "neighbors": [
+        {
+          "id": "85",
+          "w": 1
+        },
+        {
+          "id": "94",
+          "w": 1
+        }
+      ]
+    },
+    "99": {
+      "id": "99",
+      "demographics": {
+        "name": "Jessica Davis",
+        "gender": "Female",
+        "age": 60,
+        "occupation": "Teacher"
+      },
+      "psychology": {
+        "big_five": {
+          "Openness": 0.628,
+          "Conscientiousness": 0.833,
+          "Extraversion": 0.401,
+          "Agreeableness": 0.564,
+          "Neuroticism": 0.446
+        }
+      },
+      "interests": [
+        "Gaming",
+        "Sports"
+      ],
+      "neighbors": [
+        {
+          "id": "15",
+          "w": 1
+        },
+        {
+          "id": "22",
+          "w": 1
+        },
+        {
+          "id": "31",
+          "w": 1
+        },
+        {
+          "id": "43",
+          "w": 1
+        }
+      ]
+    }
+  }
+}

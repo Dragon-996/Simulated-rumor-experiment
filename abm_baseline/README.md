@@ -1,4 +1,3 @@
-
 # RBE-ABM V2 baseline
 
 This directory contains the two baseline variants used for the controlled
